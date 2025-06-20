@@ -1,0 +1,1 @@
+Remove both the trailing zeros constraint and the lower-bound constraint, so that steps only need to satisfy the total-sum and upper-bound constraints.

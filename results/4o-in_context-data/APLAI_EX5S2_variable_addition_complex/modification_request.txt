@@ -1,0 +1,1 @@
+Introduce two count variables `num_3_steps` and `num_5_steps` to count how many 3-step and 5-step moves are used, and link them to the `steps` array.

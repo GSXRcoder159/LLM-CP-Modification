@@ -1,0 +1,1 @@
+Adjust the lower bound parameter `m1` from 3 to 4, so only 4 or 5 steps are allowed at a time.

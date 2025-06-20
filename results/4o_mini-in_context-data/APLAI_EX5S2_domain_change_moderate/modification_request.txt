@@ -1,0 +1,1 @@
+Expand the domain of steps to allow one extra smaller or larger move - i.e. from m1-1 to m2+1.

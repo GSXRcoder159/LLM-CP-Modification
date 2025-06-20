@@ -1,0 +1,2 @@
+example_id,modification_main,subtype,difficulty,num_vars_affected,compiled_flag,solution_accuracy,constraint_accuracy,model_accuracy,avg_unchanged_constraints,wrong_solutions,total_solutions,wrong_constraints,total_constraints,wrong_models,total_models,errors_solution,errors_constraint,errors_model
+APLAI_EX5S2_constraint_addition_moderate,structural,constraint_addition,moderate,1,False,0.0,0.0,0.0,4.0,0,1,0,5,1,1,1,5,0

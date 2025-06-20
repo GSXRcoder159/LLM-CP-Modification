@@ -1,0 +1,1 @@
+Add a constraint that ensures at least one 5-step move (i.e., a move of length m2) is used in the solution.

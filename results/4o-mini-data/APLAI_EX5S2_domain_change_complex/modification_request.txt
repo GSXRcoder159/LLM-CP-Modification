@@ -1,0 +1,1 @@
+Tighten the domain of the `steps` variable so that it cannot take the value 0.

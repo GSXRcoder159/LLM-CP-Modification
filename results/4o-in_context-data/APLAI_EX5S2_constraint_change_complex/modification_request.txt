@@ -1,0 +1,1 @@
+Replace the trailing-zeros constraint with a new rule forbidding two consecutive zero steps anywhere in the sequence.

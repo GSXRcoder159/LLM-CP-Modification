@@ -1,0 +1,1 @@
+Add a constraint to forbid any two consecutive non-zero moves from having the same step size.

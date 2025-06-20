@@ -1,0 +1,1 @@
+Remove the trailing zeros constraint so that zero-valued steps can appear anywhere in the sequence.

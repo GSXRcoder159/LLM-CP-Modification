@@ -1,0 +1,1 @@
+Remove the lower-bound constraint that each non-zero step must be at least m1, allowing any value from 0 up to m2 at any position.

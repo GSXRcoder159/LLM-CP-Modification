@@ -1,0 +1,2 @@
+example_id,modification_main,subtype,difficulty,num_vars_affected,compiled_flag,solution_accuracy,constraint_accuracy,model_accuracy,avg_unchanged_constraints,wrong_solutions,total_solutions,wrong_constraints,total_constraints,wrong_models,total_models,errors_solution,errors_constraint,errors_model
+APLAI_EX5S2_constraint_addition_complex,structural,constraint_addition,complex,1,False,0.0,53.65853658536585,0.0,4.0,0,1,19,41,1,1,1,0,0

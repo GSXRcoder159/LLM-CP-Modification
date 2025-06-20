@@ -1,0 +1,1 @@
+Add a constraint enforcing that the sequence of non-zero steps is non-decreasing (each subsequent non-zero step must be at least as large as the previous one).

@@ -1,0 +1,1 @@
+Change the total-sum constraint so that the sum of steps must be at least `n` rather than exactly `n`.

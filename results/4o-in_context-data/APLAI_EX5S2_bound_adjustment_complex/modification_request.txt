@@ -1,0 +1,1 @@
+Increase the total stair count `n` to the smallest possible stair count larger than the current value such that the problem is still solvable.

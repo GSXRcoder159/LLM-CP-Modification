@@ -1,0 +1,1 @@
+Add a weighted objective: maximize 10x(number of largest step-size moves) - (number of moves), encouraging many large jumps with few total moves.

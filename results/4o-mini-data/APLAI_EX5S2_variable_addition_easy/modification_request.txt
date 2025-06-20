@@ -1,0 +1,1 @@
+Introduce a new variable `total_moves` that counts the number of non-zero steps, and link it to the `steps` array.

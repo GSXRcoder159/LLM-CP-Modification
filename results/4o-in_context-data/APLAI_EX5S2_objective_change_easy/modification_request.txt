@@ -1,0 +1,1 @@
+Add an objective to minimize the total number of non-zero steps.

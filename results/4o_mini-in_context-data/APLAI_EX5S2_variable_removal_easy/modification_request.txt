@@ -1,0 +1,1 @@
+Remove the last decision variable so that the model uses only n-1 potential moves instead of n.

@@ -1,0 +1,1 @@
+Introduce a variable `longest_move` to record the maximum step size used and link it to the `steps` array.
